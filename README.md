@@ -1,4 +1,4 @@
-# Jogo da Cobrinha
+# 🐍 Jogo da Cobrinha
 
 Um jogo simples da cobrinha desenvolvido com HTML5 Canvas e JavaScript.
 
@@ -39,3 +39,7 @@ Este jogo foi criado por Samuel Matsuo.
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Imagens
+
+![Screenshot do Jogo da Cobrinha](snake_screenshot.png)
