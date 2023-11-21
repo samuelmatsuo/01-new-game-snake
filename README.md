@@ -43,3 +43,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## Imagens
 
 ![Screenshot do Jogo da Cobrinha](snake_screenshot.png)
+![Screenshot do Jogo da Cobrinha](snake_screenshot_2.png)
